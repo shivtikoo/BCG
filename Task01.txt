@@ -1,0 +1,58 @@
+The problem statement for TASK 01:
+
+First things first, you and Estelle need to understand the problem that PowerCo is facing at a deeper level and plan how you’ll tackle it. If you recall the 5 steps in the Data Science methodology, this is called “business understanding & problem framing”.
+
+Your AD wants you and Estelle to email him by COB today outlining:
+
+the data that we’ll need from the client, and
+the techniques we’ll use to investigate the issue.
+
+Use the text field below to write your email, here’s what you’ll need to include:
+
+You must formulate PowerCo’s issue as a problem using the 5 step data science process and lay out the major steps needed to test it.
+
+What do you think are the key reasons for a customer deciding to stay with or switch energy providers? For example: price, is it clean energy, customer service, location etc.
+What data do you think would be useful in order to investigate these key reasons? E.g. customer purchasing trends over past 5 years, location of business etc.
+If you were to get this data, how could you analyse or visualize it to test whether these reasons may have an impact on churn?
+
+
+------------------------------------------------------------------------------------------------EMAIL-------------------------------------------------------------------------------------------------------------
+
+Subject: Initial Steps for Addressing PowerCo's Customer Churn Issue
+
+Dear Associate Director,
+
+Estelle and I have begun the initial stages of understanding PowerCo's concerns regarding the customer churn they're scared of undergoing. As part of the first step of the 5-step data science methodology, we've identified key areas to frame the problem and outlined steps to address it effectively.
+
+Problem Framing: PowerCo's primary issue revolves around customer churn. To address this, we aim to first define the problem: Identifying the major factors contributing to customer retention or attrition. This could include elements such as pricing, service quality, renewable energy offerings, customer service, and geographical factors. These factors could help us better understand the causal factors behind the probable customer churn.
+Dataset Requirement: To work on our problem statement we first need a dataset from the company to investigate these reasons. The dataset provided by the company should be a comprehensive customer database including the following features:
+  - Historical customer purchasing patterns over the last 5 years to discern trends.
+  - Customer feedback or satisfaction scores.
+  - Pricing structures and any changes over time.
+  - Geographical data to analyze regional variations in churn rates.
+  - Service-related data like outage frequency, response time, etc.
+Final Steps: Now to discern information from the dataset that will be provided to us by the company; we follow the following steps:
+  - Exploratory Data Analysis: Utilize visualization tools to map customer churn against various factors like pricing changes, service quality metrics, and geographical distribution. This helps identify correlations and trends.
+  - Feature Engineering: Refine and create features that could enhance predictive models. Working with certain features could in turn be more resourceful and form more refined features using our own knowledge or third party knowledge.
+  - Modelling and Evaluation: Utilize predictive models to forecast churn probabilities based on identified factors and then evaluate the model performance..
+  - Insights: Derive actionable insights from the analyses performed. This will involve pinpointing the most influential factors and their impact on the customer churn.
+
+Upon using this 5 step technique to discern information from the dataset provided to us by the company; we can provide better insights about the causal factors involved with the customer churn.
+
+We hypothesize that several factors may contribute to customer churn:
+-  Pricing : Changes in pricing structures might significantly impact customer decisions.
+-  Service Quality : Poor service experiences could prompt customers to switch providers.
+-  Renewable Energy Offerings : Customers inclined towards sustainable energy might favor providers with cleaner energy sources.
+- Geographical Conditions : Local factors or market competition could influence customer loyalty.
+
+The Plan of Action :
+Upon obtaining the necessary data, we plan to:
+- Cleanse and preprocess data to ensure accuracy.
+- Conduct exploratory and statistical analyses to identify correlations.
+- Build predictive models to forecast churn probabilities based on identified factors.
+
+We aim to have a more detailed plan once we've acquired and analyzed the pertinent data.
+
+Looking forward to your feedback on this approach.
+
+Best regards.
