@@ -1,0 +1,7 @@
+TASK 02
+
+In this task we have to understand the effect of price sensitivity on the customer churn.
+	Price sensitivity is the degree to which demand changes when the cost of a product or service changes. It is measured with the help of price elasticity which is; Price elasticity of demand is a measurement of the change in consumption of a product in relation to a change in its price.
+
+
+The TASK is in the EDA folder !!!
